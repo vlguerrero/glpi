@@ -3669,6 +3669,11 @@ a.copyright {
          display: flex;
          flex-direction: column;
       }
+      
+      > {
+         height: 16px;
+         width: 16px;
+      }
    }
 
    .right .h_content {
